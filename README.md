@@ -105,7 +105,7 @@ Este software destina-se exclusivamente para:
 Distribuído sob licença GPL-3.0. Veja o arquivo LICENSE para detalhes.
 
 👨💻 **Desenvolvedor**  
-Marlon - [GitHub](https://github.com/seu-usuario)
+Marlon - [GitHub](https://github.com/Marlon009)
 
 🙌 **Contribuição**  
 Contribuições são bem-vindas! Siga estes passos:
